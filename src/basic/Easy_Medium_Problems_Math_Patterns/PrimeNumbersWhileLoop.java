@@ -1,6 +1,8 @@
+package basic.Easy_Medium_Problems_Math_Patterns;
+
 import java.util.Scanner;
 
-class PrimeNumbersWhileLoop {
+public class PrimeNumbersWhileLoop {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

@@ -1,4 +1,4 @@
-package basic;
+package basic.Easy_Medium_Problems_Math_Patterns;
 
 import java.util.Scanner;
 
